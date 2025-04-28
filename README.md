@@ -2,24 +2,8 @@
 Predicting the price of a car based on various features such as make, model, year, mileage, fuel type, etc.
 This project uses machine learning algorithms to build a predictive model and analyze the key factors influencing car prices.
 
-📂 Project Structure
-kotlin
-Copy
-Edit
-car-price-prediction/
-├── data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
-├── notebooks/
-│   └── car_price_prediction.ipynb
-├── models/
-│   └── model.pkl
-├── app/
-│   └── app.py
-├── requirements.txt
-├── README.md
-└── LICENSE
-🛠️ Tech Stack
+
+## Tech Stack
 Python
 
 Pandas
