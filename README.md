@@ -14,11 +14,10 @@ Matplotlib / Seaborn
 
 Scikit-Learn
 
-Streamlit (for deployment)
 
 Jupyter Notebook
 
-📈 Problem Statement
+## Problem Statement
 Build a machine learning model that can predict the price of a used car based on its features like:
 
 Brand
@@ -37,16 +36,7 @@ Engine Size
 
 Number of Previous Owners, etc.
 
-📊 Dataset
-Source: [Kaggle / custom dataset]
-
-Rows: 10,000+
-
-Features: 10–15 columns
-
-Dataset is available inside the data/ folder (raw_data.csv).
-
-🧹 Data Preprocessing
+## Data Preprocessing
 Handling missing values
 
 Encoding categorical variables
@@ -55,7 +45,7 @@ Outlier detection and removal
 
 Feature scaling
 
-🤖 Model Building
+## Model Building
 Train-Test Split
 
 Feature Selection
@@ -64,13 +54,11 @@ Models Used:
 
 Linear Regression
 
-Random Forest Regressor
+Ridge Regression
 
-XGBoost Regressor
+Lasso Regression
 
-Hyperparameter Tuning
-
-Evaluation Metrics:
+## Evaluation Metrics:
 
 RMSE (Root Mean Squared Error)
 
